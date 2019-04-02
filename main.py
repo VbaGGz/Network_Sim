@@ -72,6 +72,6 @@ def GenFrame(count):
     file.close()
 
 
-GenPacket(100)
+GenPacket(1000)
 print('\n')
 GenFrame(10000)
