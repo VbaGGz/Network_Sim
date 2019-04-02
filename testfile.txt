@@ -1,0 +1,70 @@
+high quality Channel (1000 Packets)
+Simulator Packets TCP Layer
+
+Total number of packets sent = 1007 
+Total number of packets Failed = 7 
+Percentage of Packet failure = 0.006951340615690168 
+Percentage of Packet Passed = 0.9930486593843099 
+Total number of packets passed = 1000 
+Total packet Cost = 110770 Cents
+Avenge Packet Cost = 110.77 Cents
+Avenge Frame Cost = 11.077 Cents
+
+Simulator Frames DATA Link Layer
+
+Total number of Frames sent = 10008 
+Total number of Frames Failed = 8 
+Percentage of Frame failure = 0.0007993605115907274 
+Percentage of Frame Passed = 0.9992006394884093 
+Total number of Frames passed = 10000 
+Total Frame Cost = 112089.59999998088 Cents
+Avenge Frame Cost = 11.208959999998088 Cents
+Avenge Packet Cost = 112.08959999998088 Cents
+
+
+
+Low quality Channel (1000 Packets)
+Simulator Packets TCP Layer
+
+Total number of packets sent = 2883 
+Total number of packets Failed = 1883 
+Percentage of Packet failure = 0.653139091224419 
+Percentage of Packet Passed = 0.34686090877558096 
+Total number of packets passed = 1000 
+Total packet Cost = 317130 Cents
+Avenge Packet Cost = 317.13 Cents
+Avenge Frame Cost = 31.713 Cents
+
+Simulator Frames DATA Link Layer
+
+Total number of Frames sent = 11138 
+Total number of Frames Failed = 1138 
+Percentage of Frame failure = 0.10217274196444603 
+Percentage of Frame Passed = 0.897827258035554 
+Total number of Frames passed = 10000 
+Total Frame Cost = 124745.5999999776 Cents
+Avenge Frame Cost = 12.47455999999776 Cents
+Avenge Packet Cost = 124.7455999999776 Cents
+ 
+Simulator Packets TCP Layer
+
+Total number of packets sent = 1011 
+Total number of packets Failed = 11 
+Percentage of Packet failure = 0.010880316518298714 
+Percentage of Packet Passed = 0.9891196834817013 
+Total number of packets passed = 1000 
+Total packet Cost = 111210 Cents
+Avenge Packet Cost = 111.21 Cents
+Avenge Frame Cost = 11.120999999999999 Cents
+
+Simulator Frames DATA Link Layer
+
+Total number of Frames sent = 10010 
+Total number of Frames Failed = 10 
+Percentage of Frame failure = 0.000999000999000999 
+Percentage of Frame Passed = 0.999000999000999 
+Total number of Frames passed = 10000 
+Total Frame Cost = 112111.99999998088 Cents
+Avenge Frame Cost = 11.211199999998088 Cents
+Avenge Packet Cost = 112.11199999998088 Cents
+ 
