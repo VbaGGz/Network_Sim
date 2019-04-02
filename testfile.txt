@@ -68,3 +68,25 @@ Total Frame Cost = 112111.99999998088 Cents
 Avenge Frame Cost = 11.211199999998088 Cents
 Avenge Packet Cost = 112.11199999998088 Cents
  
+Simulator Packets TCP Layer
+
+Total number of packets sent = 100 
+Total number of packets Failed = 0 
+Percentage of Packet failure = 0.0 
+Percentage of Packet Passed = 1.0 
+Total number of packets passed = 100 
+Total packet Cost = 11000 Cents
+Avenge Packet Cost = 110.0 Cents
+Avenge Frame Cost = 11.0 Cents
+
+Simulator Frames DATA Link Layer
+
+Total number of Frames sent = 10007 
+Total number of Frames Failed = 7 
+Percentage of Frame failure = 0.0006995103427600679 
+Percentage of Frame Passed = 0.9993004896572399 
+Total number of Frames passed = 10000 
+Total Frame Cost = 112078.39999998089 Cents
+Avenge Frame Cost = 11.20783999999809 Cents
+Avenge Packet Cost = 112.07839999998089 Cents
+ 
